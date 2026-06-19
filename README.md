@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey !<br><br>Étudiant en cybersécurité avec un background en développement web. Passionné par la sécurité applicative, le pentest et l'automatisation.<br><br>J'utilise GitHub pour partager mes projets, mes expérimentations et mes apprentissages autour de la cybersécurité et du dev.<br><br>📍 Recherche une alternance en cybersécurité pour septembre 2026.<br>
+### 👋 Hey !<br><br>Étudiant en cybersécurité avec un background en développement web. Passionné par la sécurité applicative, le pentest et l'automatisation.<br><br>J'utilise GitHub pour partager mes projets, mes expérimentations et mes apprentissages autour de la cybersécurité et du dev.<br><br>📍 Recherche une alternance en cybersécurité pour septembre 2026.<br>
 
 
 ## 🌐 Socials:
